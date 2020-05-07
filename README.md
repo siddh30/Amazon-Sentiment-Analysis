@@ -10,7 +10,7 @@ In this project we carry out Sentimental Analysis on Amazon's Books Dataset base
 The Amazon's Books Dataset containing a million books, thier reviews and their ratings.
 
 
-## *** Our Apporaches -***
+## ***Our Apporaches -***
 Approach 1 : Using spaCy for tokenization, Lemmatization and Removing Stopwords and using scikit-learn to build our models for different batches of data and using Ensemble Techqniques to create an aggregate prediction result.
 
 Approach 2 : Using NLTK for tokenization, Lemmatization and Removing Stopwords and using scikit-learn to build our models for different batches of data.
