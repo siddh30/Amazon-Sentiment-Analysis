@@ -14,5 +14,5 @@ Approach 3 : Logistic Regression
 Approach 4 : Pyspark
 
 ## ***Dataset Description -***
-The Amazon's Books Dataset containig a million books, thier reviews and their ratings.
+The Amazon's Books Dataset containing a million books, thier reviews and their ratings.
 
