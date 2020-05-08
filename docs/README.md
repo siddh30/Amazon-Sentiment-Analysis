@@ -1,4 +1,4 @@
-<img src="logo.JPG"
+<img src="logo.png"
      img align = center
      img width="100" img height="1"
      alt="Markdown Monster icon"
