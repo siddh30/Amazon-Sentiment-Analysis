@@ -1,6 +1,5 @@
 <p>
 <img src="web_logo.JPG"
-     img align = center
      img width="1000" img height="100"
      alt="Markdown Monster icon"
       />
