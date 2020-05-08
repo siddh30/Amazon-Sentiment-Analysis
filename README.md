@@ -1,6 +1,6 @@
-# <p align = 'center'>Amazon Sentiment Analysis</p>
+# <p style = 'center'>Amazon Sentiment Analysis</p>
 
-<p align = 'center'><img width="600" img height="200" src =logo.png </p>
+<p style = 'center'><img width="600" img height="200" src =logo.png </p>
 
 
 
