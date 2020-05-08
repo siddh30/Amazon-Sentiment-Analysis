@@ -16,7 +16,7 @@ Approach 2 : Using NLTK for tokenization, Lemmatization and Removing Stopwords a
 Approach 3 :  Working with Pyspark to handle our Big Data.
 
 
-<img src="markdownmonstericon.png"
+<img src="logo.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
