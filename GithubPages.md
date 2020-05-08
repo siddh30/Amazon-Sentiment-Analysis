@@ -1,5 +1,3 @@
-# Amazon Sentiment Analysis
-
 
 ### Project Overview - 
 A Natural Language Processing and Machine Learning project for analyzing and predicting the ratings and sentiments for over a million books on Amazon, based on their product reviews. 
