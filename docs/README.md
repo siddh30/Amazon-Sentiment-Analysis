@@ -1,5 +1,5 @@
 <img src="logo.JPG"
-     img width="900" img height="100"
+     img width="900" img height="10"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
