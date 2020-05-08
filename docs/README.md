@@ -16,7 +16,7 @@ Approach 3 :  Working with Pyspark to handle our Big Data.
 
 <p>
 <img src="web_logo.JPG"
-     img width="1000" img height="200"
+     img width="1000" img height="300"
      alt="Markdown Monster icon"
       />
 </p>
