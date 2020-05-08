@@ -2,7 +2,6 @@
 <p>
      
 <img src="web_logo.png"
-     img align="left"
      img width="600" img height="200"
      alt="Markdown Monster icon"
       />
