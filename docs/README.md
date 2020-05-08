@@ -1,4 +1,3 @@
-# Amazon Sentiment Analysis
 
 ## ***Project Overview -***
 In this project we carry out Sentimental Analysis on Amazon's Books Dataset based on reviews on a million books and predict whether this review is 'Positive', 'Neutral', 'Negative'. Apart from reviews we have also predicted their indiviWe have four different approaches to our project.
