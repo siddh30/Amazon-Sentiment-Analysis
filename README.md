@@ -1,4 +1,4 @@
-# <p align = 'center'>Amazon Sentiment Analysis</p>
+Amazon Sentiment Analysis
 
 
   
