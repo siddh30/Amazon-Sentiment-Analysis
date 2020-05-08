@@ -22,4 +22,5 @@ Approach 3 :  Working with Pyspark to handle our Big Data.
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+<br />
 
