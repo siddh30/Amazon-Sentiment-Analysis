@@ -15,6 +15,6 @@ Approach 1 : Using spaCy for tokenization, Lemmatization and Removing Stopwords 
 
 Approach 2 : Using NLTK for tokenization, Lemmatization and Removing Stopwords and using scikit-learn to build our models for different batches of data.
 
-Approach 3 :  Working with Pyspark to handle our Big Data.
+Approach 3 :  Working with Pyspark to handle Big Data.
 
 
