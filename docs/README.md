@@ -1,7 +1,7 @@
 <img src="logo.JPG"
      img width="400" img height="1"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+      />
      
 
 ## ***Project Overview -***
