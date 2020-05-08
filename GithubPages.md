@@ -1,7 +1,7 @@
 # <p align = 'center'> Amazon Sentiment Analysis </p>
   <p align = 'center'> <img width="600" img height="200" src = logo.png </p>
 
-###  ++ Project Overview ++ - 
+###  ****Project Overview**** - 
 A Natural Language Processing and Machine Learning project for analyzing and predicting the ratings and sentiments for over a million books on Amazon, based on their product reviews. 
 
 ### *Dataset Description* - 
