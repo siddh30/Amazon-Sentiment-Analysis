@@ -1,7 +1,7 @@
 <p>
 <img src="web_logo.JPG"
      img align = center
-     img width="200" img height="100"
+     img width="400" img height="100"
      alt="Markdown Monster icon"
       />
 </p>
