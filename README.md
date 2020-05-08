@@ -1,6 +1,6 @@
 # Amazon Sentiment Analysis
 
-<img width="600" img height="200" src =logo.png </img>
+<img width="600" img height="200" src =logo.png <
 
 
 ### Project Overview - 
