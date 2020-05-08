@@ -1,7 +1,6 @@
-
-<p>
   
 <p align="center">
+  
 <img src="web_logo.png"
      img width="600" img height="200"
      alt="Markdown Monster icon"
