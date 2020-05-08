@@ -1,12 +1,3 @@
- 
-<p>
-<p align="center">
-<img src="web_logo.png"
-     img width="600" img height="200"
-     alt="Markdown Monster icon"
-      />
-</p>
-</p>
 
 ## Project Overview 
 In this project we carry out Sentimental Analysis on Amazon's Books Dataset based on reviews on a million books and predict whether this review is 'Positive', 'Neutral', 'Negative'. Apart from reviews we have also predicted their indiviWe have four different approaches to our project.
@@ -22,4 +13,13 @@ Approach 1 : Using spaCy for tokenization, Lemmatization and Removing Stopwords 
 Approach 2 : Using NLTK for tokenization, Lemmatization and Removing Stopwords and using scikit-learn to build our models for different batches of data.
 
 Approach 3 :  Working with Pyspark to handle Big Data.
+
+<p>
+<p align="center">
+<img src="web_logo.png"
+     img width="600" img height="200"
+     alt="Markdown Monster icon"
+      />
+</p>
+</p>
 
