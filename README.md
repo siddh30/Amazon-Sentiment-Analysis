@@ -7,7 +7,7 @@ In this project we carry out Sentimental Analysis on Amazon's Books Dataset base
 
 
 ## ***Dataset Description***
-The Amazon's Books Dataset containing a million books, thier reviews and their ratings.
+The Amazon's Books Dataset containing more than a  million books, thier reviews and their ratings.
 
 
 ## ***Our Apporaches***
