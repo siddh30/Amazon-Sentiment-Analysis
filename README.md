@@ -15,7 +15,7 @@ Approach 1: Using spaCy for tokenization, Lemmatization and Removing stopwords a
 
 Approach 2: Using NLTK for tokenization, Lemmatization and Removing Stop words and using scikit-learn to build our models for different batches of data.
 
-Approach 3: Using a custom-built Naïve Bayes model
+Approach 3: Using a custom-built Naïve Bayes model.
 
-Approach 4: Handling Big Data
+Approach 4: Handling Big Data.
 
