@@ -17,8 +17,10 @@ The Amazon's Books Dataset containing a million books, thier reviews and their r
 
 
 ## Our Apporaches 
-Approach 1 : Using spaCy for tokenization, Lemmatization and Removing Stopwords and using scikit-learn to build our models for different batches of data and using Ensemble Techqniques to create an aggregate prediction result.
+Approach 1: Using spaCy for tokenization, Lemmatization and Removing stopwords and using scikit-learn to build our models for different batches of data and using Ensemble Techniques to create an aggregate prediction result.
 
-Approach 2 : Using NLTK for tokenization, Lemmatization and Removing Stopwords and using scikit-learn to build our models for different batches of data.
+Approach 2: Using NLTK for tokenization, Lemmatization and Removing Stop words and using scikit-learn to build our models for different batches of data.
 
-Approach 3 :  Working with Pyspark to handle Big Data.
+Approach 3: Using a custom-built Naïve Bayes model
+
+Approach 4: Handling Big Data
