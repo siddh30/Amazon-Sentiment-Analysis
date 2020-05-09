@@ -28,8 +28,11 @@ Approach 4: Handling Big Data
 
 ## Our Results
 Overall, implementing logistic regression (0.89605) using SPACY provided the highest accuracy and the least compilation time and it was the most feasible machine learning model for Approach. We have also implemented ensemble learning and though Random Forest did provide a higher accuracy (0.88475) as compared to Decision Trees (0.84955), it did not improve the overall performance.
+
 In approach 2, amongst Logistic regression, Decision Tree and Support vector the highest accuracy of 0.8644 was achieved when Bag of words were implemented using Countvectorizer() with ngram=(1,2) with Logistics Regression having parameters maximum iteration=500, C=0.1, random_state=40, and solver=’newton-cg.’ Whereas the KNN model is comparatively faster but was only able to achieve a score of 0.578. 
+
 Our custom function of Naïve Bayes implementation in approach 3 was able to achieve highest accuracy score of 0.909 among all the models and in all approaches. But it is highly time complex and took almost a day to train on 200k samples and predict 100k reviews. 
+
 In our last approach we find ways to deal with our dataset which consists of more than 3 million records of books and reviews. Using Pyspark, we trained logistic regression and was able to achieve 66.667% accuracy on our test data and using a custom loop we generated batch wise accuracies with one of the batches hitting an accuracy of above 90%. 
 
 
