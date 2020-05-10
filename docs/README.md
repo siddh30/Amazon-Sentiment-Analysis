@@ -31,7 +31,7 @@ Approach 4: Handling Big Data
 
 2. In our second approach, amongst Logistic regression, Decision Trees and Support Vector Machines, the highest accuracy of 0.8644 was achieved by Logistic Regression when samples of our review_body feature were passed through Countvectorizer() with ngram=(1,2) and the classifier having parameters like maximum iteration=500, C=0.1, random_state=40, and solver=’newton-cg.’ On the flip side, our KNN model was comparatively faster but achieved a score of 0.578. 
 
-3. Our custom-built Naïve Bayes model in approach 3 achieved an accuracy of 0.909 which is the highest among all all approaches. But has a large computational time.
+3. Our custom-built Naïve Bayes model in approach 3 achieved an accuracy of 0.909 which is the highest among all our approaches. But has a large computational time.
 
 4. In our last approach we find ways to deal with our dataset which consists of more than 3 million records of books and reviews. Using Pyspark, we trained our model (logistic regression) and it achieved an accuracy of 66.667% on our test data. Another way of dealing with big data was to construct a custom loop which created models and generated predictions for different batches of data. Accuracies with one of these batches hit above 90%.
 
