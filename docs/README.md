@@ -8,7 +8,7 @@
 </p>. 
 
 ## Introduction
-Sentiment analysis is a text analysis method that detects polarity (e.g. a positive or negative opinion) within text, whether a whole document, paragraph, sentence, or clause.
+Sentiment analysis is a text analysis method that detects polarity (e.g. a positive or negative opinion) within text, whether its a whole document, paragraph, sentence, or a clause.
 
 Understanding people’s emotions is essential for businesses since customers are able to express their thoughts and feelings more openly than ever before. By automatically analyzing customer feedback, from survey responses to social media conversations, brands are able to listen attentively to their customers, and tailor products and services to meet their needs.
 
